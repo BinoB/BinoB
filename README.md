@@ -35,9 +35,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma">
   </div>
 </div>
-
 <br/><br/>
-
 <!-- Backend Section -->
 <div align="center">
   <div align="center"><h3 align="center">Backend</h3></div>
@@ -47,9 +45,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
   </div>
 </div>
-
 <br/><br/>
-
 <!-- Tools Section -->
 <div align="center">
   <div align="center"><h3 align="center">Tools</h3></div>
